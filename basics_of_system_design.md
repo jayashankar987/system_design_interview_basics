@@ -13,11 +13,11 @@
 * Is it user specific (premium / free user)
 * Auth Token to identify if expired and does it support refresh token or Logout (Error Handling)
 * Explain the architecture you are going to follow MVI, MVVM, MVP which best suites based on the requirement
+* Understand if there is any service requirements, APIs and Touch of what is needed
 * What is the API, can I get exposure to API (Rest?, json)
     GET https://host/current_live (parameters expected)
 * How much data needs to be stored, does it need Clean service (WorkManager to clear old data)
 * Does it need pagination
-* Does it has a websockets or polling is enough
 * Check if Mobile is on wifi / mobile network and then identify polling frequency
 * Should it support offline and online both?
 * What Database and schema say (Room, SQLDelight, ObjectBox, Realm)
